@@ -1,0 +1,173 @@
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be pushed into the stack :12
+
+Pushed successfully
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+----------------------------------------------
+
+Enter your choice:2
+
+Popped stack top is 12
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+----------------------------------------------
+
+Enter your choice:2
+
+Stack underflow
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+----------------------------------------------
+
+Enter your choice:3
+
+Stack underflow
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be pushed into the stack :13
+
+Pushed successfully
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be pushed into the stack :15
+
+Pushed successfully
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be pushed into the stack :11
+
+Pushed successfully
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be pushed into the stack :14
+
+Pushed successfully
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be pushed into the stack :14
+
+Pushed successfully
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be pushed into the stack :16
+
+Stack overflow
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+----------------------------------------------
+
+Enter your choice:4
+
+  |14|
+  |14|
+  |11|
+  |15|
+  |13|
+   --
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+----------------------------------------------
+
+Enter your choice:3
+
+Stack top without pop is 14
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+----------------------------------------------
+
+Enter your choice:5
