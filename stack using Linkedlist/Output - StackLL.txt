@@ -1,0 +1,240 @@
+
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be pushed into the stack :12
+
+Pushed successfully
+
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:5
+
+C:\Users\HP\OneDrive\Documents\programs\Interrn prep\stack using Linkedlist>StackLL
+
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:4
+
+
+Stack is empty
+
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be pushed into the stack :12
+
+Pushed successfully
+
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:4
+
+  |12|
+   --
+
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:2
+
+Popped stack top is 12
+
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be pushed into the stack :11
+
+Pushed successfully
+
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be pushed into the stack :13
+
+Pushed successfully
+
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be pushed into the stack :44
+
+Pushed successfully
+
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:4
+
+  |44|
+  |13|
+  |11|
+   --
+
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:3
+
+Stack top without pop is 44
+
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:2
+
+Popped stack top is 44
+
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:4
+
+  |13|
+  |11|
+   --
+
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:2
+
+Popped stack top is 13
+
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:4
+
+  |11|
+   --
+
+----------------------------------------------
+        MENU
+        1.Push value
+        2.Pop value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:5

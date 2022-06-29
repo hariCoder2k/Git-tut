@@ -1,0 +1,221 @@
+Enter queue capacity:4
+
+----------------------------------------------
+        MENU
+        1.Enqueue value
+        2.Dequeue value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be enqueued into the queue :11
+
+Enqueued successfully
+
+----------------------------------------------
+        MENU
+        1.Enqueue value
+        2.Dequeue value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be enqueued into the queue :12
+
+Enqueued successfully
+
+----------------------------------------------
+        MENU
+        1.Enqueue value
+        2.Dequeue value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be enqueued into the queue :23
+
+Enqueued successfully
+
+----------------------------------------------
+        MENU
+        1.Enqueue value
+        2.Dequeue value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be enqueued into the queue :32
+
+Enqueued successfully
+
+----------------------------------------------
+        MENU
+        1.Enqueue value
+        2.Dequeue value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be enqueued into the queue :43
+
+Queue overflow
+
+----------------------------------------------
+        MENU
+        1.Enqueue value
+        2.Dequeue value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:4
+
+
+|11|12|23|32|
+----------------------------------------------
+        MENU
+        1.Enqueue value
+        2.Dequeue value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:2
+
+Dequeued queue front is 11
+
+----------------------------------------------
+        MENU
+        1.Enqueue value
+        2.Dequeue value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:4
+
+
+|12|23|32|
+----------------------------------------------
+        MENU
+        1.Enqueue value
+        2.Dequeue value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:2
+
+Dequeued queue front is 12
+
+----------------------------------------------
+        MENU
+        1.Enqueue value
+        2.Dequeue value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:2
+
+Dequeued queue front is 23
+
+----------------------------------------------
+        MENU
+        1.Enqueue value
+        2.Dequeue value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:2
+
+Dequeued queue front is 32
+
+----------------------------------------------
+        MENU
+        1.Enqueue value
+        2.Dequeue value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:2
+
+Queue underflow
+
+----------------------------------------------
+        MENU
+        1.Enqueue value
+        2.Dequeue value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be enqueued into the queue :12
+
+Enqueued successfully
+
+----------------------------------------------
+        MENU
+        1.Enqueue value
+        2.Dequeue value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:3
+
+Queue front without dequeue is 12
+
+----------------------------------------------
+        MENU
+        1.Enqueue value
+        2.Dequeue value
+        3.Peek top
+        4.Display
+        5.Exit
+
+----------------------------------------------
+
+Enter your choice:5
