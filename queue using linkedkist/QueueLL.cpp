@@ -53,7 +53,9 @@ int dequeue(qt &s)
 		temp = s.front;
 		s.front = s.front->next;
 	}
-	return temp->data;
+	int deq = temp->data;
+	delete temp;
+	return deq;
 }
 
 int peek(qt &s){

@@ -1,0 +1,658 @@
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be inserted first:13
+
+Inserted successfully
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:10
+
+->13
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:2
+
+Enter value to be inserted last:14
+
+Inserted successfully
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:10
+
+->13->14
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:3
+
+Enter value to be inserted :14
+
+Enter value to be the element should be inserted:15
+
+After element not found
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:3
+
+Enter value to be inserted :15
+
+Enter value to be the element should be inserted:14
+
+Inserted successfully
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:10
+
+->13->14->15
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be inserted first:12
+
+Inserted successfully
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be inserted first:11
+
+Inserted successfully
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be inserted first:10
+
+Inserted successfully
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:10
+
+->10->11->12->13->14->15
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:4
+
+The value of node that is deleted is 10
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:10
+
+->11->12->13->14->15
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:5
+
+The value of deleted element is 15
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:10
+
+->11->12->13->14
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:6
+Enter the element to be deleted:14
+
+Element to be deleted is 14
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:10
+
+->11->12->13
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be inserted first:10
+
+Inserted successfully
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:1
+
+Enter value to be inserted first:9
+
+Inserted successfully
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:10
+
+->9->10->11->12->13
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:7
+Enter the FROM element to be deleted:10
+
+Enter the TO element to be deleted:12
+iter->data9
+to->data12
+Deletion complete
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:10
+
+->9->13
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:8
+Enter no. of rotations needed:2
+
+Rotation complete
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:10
+
+->9->13
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:8
+Enter no. of rotations needed:1
+
+Rotation complete
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:10
+
+->13->9
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:9
+
+Enter the element to be searched:12
+
+Element does not exist
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:9
+
+Enter the element to be searched:13
+
+Found
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:11
+
+Length of the list is 2
+
+----------------------------------------------
+        MENU
+        1.Insert at First
+        2.Insert at Last
+        3.Insert after element
+        4.Delete First element
+        5.Delete last element
+        6.Delete element
+        7.Delete Range
+        8.Rotate right
+        9.Search
+        10.Print List:
+        11.Length of the list
+        12.Exit
+
+----------------------------------------------
+
+Enter your choice:12

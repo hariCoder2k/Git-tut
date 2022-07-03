@@ -24,7 +24,9 @@ int pop(st &s)
 {
 	if (s.top != NULL){
 		int dat = s.top->data;
+		Node* temp = s.top;
 		s.top = s.top->next;
+		delete temp;
 		return dat;
 	}
 	else
