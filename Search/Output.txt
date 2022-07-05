@@ -1,0 +1,8 @@
+Enter size:5
+Enter value:20
+Enter value:30
+Enter value:40
+Enter value:60
+Enter value:90
+Enter target to be found:60
+3
